@@ -1,5 +1,5 @@
 {
-  "name": "git-push.js",
+  "name": "@ajay-o-s/git-push.js",
   "version": "1.0.0",
   "description": "Publish files to a branch on GitHub.",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "ajay-o-s"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "Ajay o s",
   "license": "Apache-2.0",
