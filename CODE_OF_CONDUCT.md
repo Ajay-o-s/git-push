@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-[*Ajay o s*](https://github.com/Ajay-o-s)
+# [Ajay o s](https://github.com/Ajay-o-s)
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
